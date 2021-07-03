@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Kontrol_montaga.PrjPcb]
+   Generated File[PCB4-RoundHoles.TXT]
+   Generated File[PCB4-SquareHoles.TXT]
+   Generated File[PCB4.LDP]
+   Generated File[PCB4.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:30:32 On 31.03.2021

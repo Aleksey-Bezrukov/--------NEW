@@ -1,0 +1,144 @@
+Added Pin To Net: NetName=+5V (Dirty) Pin=DC/DC1-1
+Added Pin To Net: NetName=+5V (Dirty) Pin=PLD1-1
+Added Net: Name=+5V (Dirty)
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C8-1
+Added Pin To Net: NetName=+5V Pin=C12-2
+Added Pin To Net: NetName=+5V Pin=DA1-3
+Added Pin To Net: NetName=+5V Pin=DC/DC1-6
+Added Pin To Net: NetName=+5V Pin=DD1-15
+Added Pin To Net: NetName=+5V Pin=DD1-22
+Added Pin To Net: NetName=+5V Pin=DD2-1
+Added Pin To Net: NetName=+5V Pin=DD3-8
+Added Pin To Net: NetName=+5V Pin=R4-2
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=+5V Pin=R12-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=AVCC Pin=C6-2
+Added Pin To Net: NetName=AVCC Pin=C7-2
+Added Pin To Net: NetName=AVCC Pin=DJ1-H1
+Added Pin To Net: NetName=AVCC Pin=DJ1-K4
+Added Pin To Net: NetName=AVCC Pin=I1-2
+Added Net: Name=AVCC
+Added Pin To Net: NetName=GND(Dirty) Pin=DC/DC1-2
+Added Pin To Net: NetName=GND(Dirty) Pin=PLD1-2
+Added Net: Name=GND(Dirty)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=D1-4
+Added Pin To Net: NetName=GND Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA2-2
+Added Pin To Net: NetName=GND Pin=DC/DC1-4
+Added Pin To Net: NetName=GND Pin=DD1-9
+Added Pin To Net: NetName=GND Pin=DD1-13
+Added Pin To Net: NetName=GND Pin=DD1-21
+Added Pin To Net: NetName=GND Pin=DD2-7
+Added Pin To Net: NetName=GND Pin=DD3-4
+Added Pin To Net: NetName=GND Pin=DJ1-A3
+Added Pin To Net: NetName=GND Pin=DJ1-A6
+Added Pin To Net: NetName=GND Pin=DJ1-A8
+Added Pin To Net: NetName=GND Pin=DJ1-D1
+Added Pin To Net: NetName=GND Pin=DJ1-D10
+Added Pin To Net: NetName=GND Pin=DJ1-G1
+Added Pin To Net: NetName=GND Pin=DJ1-G10
+Added Pin To Net: NetName=GND Pin=DJ1-K3
+Added Pin To Net: NetName=GND Pin=DJ1-K7
+Added Pin To Net: NetName=GND Pin=DJ1-K9
+Added Pin To Net: NetName=GND Pin=G1-2
+Added Pin To Net: NetName=GND Pin=G1-3
+Added Pin To Net: NetName=GND Pin=G2-2
+Added Pin To Net: NetName=GND Pin=G2-3
+Added Pin To Net: NetName=GND Pin=ID1-5
+Added Pin To Net: NetName=GND Pin=PLD2-6
+Added Pin To Net: NetName=GND Pin=PLDW1-6
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=VDS1-2
+Added Pin To Net: NetName=GND Pin=VDS2-2
+Added Pin To Net: NetName=GND Pin=Ñ15-1
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC 3.3 Pin=C5-2
+Added Pin To Net: NetName=VCC 3.3 Pin=C9-1
+Added Pin To Net: NetName=VCC 3.3 Pin=C11-2
+Added Pin To Net: NetName=VCC 3.3 Pin=D1-1
+Added Pin To Net: NetName=VCC 3.3 Pin=DA1-4
+Added Pin To Net: NetName=VCC 3.3 Pin=DA2-1
+Added Pin To Net: NetName=VCC 3.3 Pin=DA2-3
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-A2
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-A5
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-A9
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-C1
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-C10
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-F10
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-K6
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-K8
+Added Pin To Net: NetName=VCC 3.3 Pin=I1-1
+Added Pin To Net: NetName=VCC 3.3 Pin=PLDW1-2
+Added Pin To Net: NetName=VCC 3.3 Pin=R13-1
+Added Net: Name=VCC 3.3
+Added Pin To Net: NetName=VREF-1.8 Pin=C10-1
+Added Pin To Net: NetName=VREF-1.8 Pin=DA2-5
+Added Pin To Net: NetName=VREF-1.8 Pin=DJ1-J1
+Added Pin To Net: NetName=VREF-1.8 Pin=R2-2
+Added Net: Name=VREF-1.8
+Added Member To Class: ClassName=Sheet4 Member=Component C1 33pF
+Added Member To Class: ClassName=Sheet4 Member=Component C2 33pF
+Added Member To Class: ClassName=Sheet4 Member=Component C3 100pF
+Added Member To Class: ClassName=Sheet4 Member=Component C4 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component C5 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component C6 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component C7 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component C8 10mF
+Added Member To Class: ClassName=Sheet4 Member=Component C9 10mF
+Added Member To Class: ClassName=Sheet4 Member=Component C10 10mF
+Added Member To Class: ClassName=Sheet4 Member=Component C11 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component C12 100pF
+Added Member To Class: ClassName=Sheet4 Member=Component C13 100pF
+Added Member To Class: ClassName=Sheet4 Member=Component C14 16pF
+Added Member To Class: ClassName=Sheet4 Member=Component DA1 
+Added Member To Class: ClassName=Sheet4 Member=Component DA2 
+Added Member To Class: ClassName=Sheet4 Member=Component DC/DC1 
+Added Member To Class: ClassName=Sheet4 Member=Component DD3 OP284
+Added Member To Class: ClassName=Sheet4 Member=Component DJ1 ATXMEGA128A1
+Added Member To Class: ClassName=Sheet4 Member=Component G1 
+Added Member To Class: ClassName=Sheet4 Member=Component G2 
+Added Member To Class: ClassName=Sheet4 Member=Component I1 
+Added Member To Class: ClassName=Sheet4 Member=Component PLD1 
+Added Member To Class: ClassName=Sheet4 Member=Component PLD2 PLD 10
+Added Member To Class: ClassName=Sheet4 Member=Component R1 1MOm
+Added Member To Class: ClassName=Sheet4 Member=Component R2 220kOm
+Added Member To Class: ClassName=Sheet4 Member=Component R3 100kOm
+Added Member To Class: ClassName=Sheet4 Member=Component R4 51Om
+Added Member To Class: ClassName=Sheet4 Member=Component R5 10kOm
+Added Member To Class: ClassName=Sheet4 Member=Component R6 2.37kOm
+Added Member To Class: ClassName=Sheet4 Member=Component R7 4.7kOm
+Added Member To Class: ClassName=Sheet4 Member=Component R8 
+Added Member To Class: ClassName=Sheet4 Member=Component R9 
+Added Member To Class: ClassName=Sheet4 Member=Component R10 
+Added Member To Class: ClassName=Sheet4 Member=Component R11 
+Added Member To Class: ClassName=Sheet4 Member=Component R12 110Om
+Added Member To Class: ClassName=Sheet4 Member=Component R13 27Om
+Added Member To Class: ClassName=Sheet4 Member=Component R14 1kOm
+Added Member To Class: ClassName=Sheet4 Member=Component R15 1kOm
+Added Member To Class: ClassName=Sheet4 Member=Component R16 1kOm
+Added Member To Class: ClassName=Sheet4 Member=Component R17 1kOm
+Added Member To Class: ClassName=Sheet4 Member=Component VDS1 2.8V 20mA
+Added Member To Class: ClassName=Sheet4 Member=Component VDS2 2.8V 20mA
+Added Member To Class: ClassName=Sheet4 Member=Component VT1 2Ò664À9
+Added Member To Class: ClassName=Sheet4 Member=Component VT2 2Ò3130Á9
+Added Member To Class: ClassName=Sheet4 Member=Component VT3 2Ò3129Á9
+Added Member To Class: ClassName=Sheet4 Member=Component X1 32.768kHz
+Added Member To Class: ClassName=Sheet4 Member=Component X2 32.768kHz
+Added Member To Class: ClassName=Sheet4 Member=Component Ñ15 16pF

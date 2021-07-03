@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=VCC 3.3 Pin=C5-2
+Added Pin To Net: NetName=VCC 3.3 Pin=C9-1
+Added Pin To Net: NetName=VCC 3.3 Pin=C11-2
+Added Pin To Net: NetName=VCC 3.3 Pin=D1-1
+Added Pin To Net: NetName=VCC 3.3 Pin=DA1-4
+Added Pin To Net: NetName=VCC 3.3 Pin=DA2-1
+Added Pin To Net: NetName=VCC 3.3 Pin=DA2-3
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-A2
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-A5
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-A9
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-C1
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-C10
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-F10
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-K6
+Added Pin To Net: NetName=VCC 3.3 Pin=DJ1-K8
+Added Pin To Net: NetName=VCC 3.3 Pin=I1-1
+Added Pin To Net: NetName=VCC 3.3 Pin=PLDW1-2
+Added Pin To Net: NetName=VCC 3.3 Pin=R13-1
+Added Net: Name=VCC 3.3
